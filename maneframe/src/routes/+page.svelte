@@ -18,7 +18,7 @@
 			<h1 class="text-3xl sm:text-7xl font-bold sm:text-center animate-bounce text-white m-10 mb-20 sm:m-20 sm:mt-32 z-0">MANEFRAME</h1>
 			<Typewriter mode="loop" wordInterval="3000" class="">
 				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10" id="llvm">A Hackathon for Middle and High School Students</p>
-				<p class=  "text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">June 8, 2024!</p>
+				<p class=  "text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">June 15, 2024!</p>
 				<p class="text-xl sm:text-3xl font-italic, text-center, animate-pulse text-white m-10">Hosted at MLK Library at SJSU</p>
 			</Typewriter>
 		</div>

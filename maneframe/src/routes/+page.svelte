@@ -51,9 +51,59 @@
 				<p class="text-white text-md lg:text-lg 2xl:text-xl text-center justify-center content-center mb-4">Do you want to make something cool? Spend some time with friends? Or maybe learn something new? If so, you should come to the ManeFrame hackathon! Whether you're a seasoned programmer or just starting out, we have a place for you!</p>
 			</div>
 		</div>
+	<section>
 		<div class="divider text-white divider-accent sm:text-4xl">
 			FAQ
 		</div>
+		<div class = "faq">
+				<div class = "question">
+					<h3>What a Hackathon?</h3>
+					<svg width = "15" height = "10" viewBox = "0 0 42 25">
+						<path d = "M3 3L21 21L39 3" stroke = "white" stroke-width = "7" stroke-linecap = "round"/>
+					</svg>
+
+				</div>
+				<div class = "answer">
+					<p>A Hackathon is an event where you code a project for a certain amount of time and then get it judged. It is meant to be a fun event where you can create anything you want with freedom, and where you can explore the amazing world of computer science.</p>
+				</div>
+			</div>
+			<div class = "faq">
+				<div class = "question">
+					<h3>What do I make?</h3>
+					<svg width = "15" height = "10" viewBox = "0 0 42 25">
+						<path d = "M3 3L21 21L39 3" stroke = "white" stroke-width = "7" stroke-linecap = "round"/>
+					</svg>
+
+				</div>
+				<div class = "answer">
+					<p>You can make whatever you want! from a simple calculator app to an online chat portal, feel free to make or submit anything. We encourage exploring and trying out new things.</p>
+				</div>
+			</div>
+			<div class = "faq">
+				<div class = "question">
+					<h3>Does it cost money?</h3>
+					<svg width = "15" height = "10" viewBox = "0 0 42 25">
+						<path d = "M3 3L21 21L39 3" stroke = "white" stroke-width = "7" stroke-linecap = "round"/>
+					</svg>
+
+				</div>
+				<div class = "answer">
+					<p>Nope! Maneframe is absolutely free! We encourage anyone in middle or high school to attend.</p>
+				</div>
+			</div>
+			<div class = "faq">
+				<div class = "question">
+					<h3>Do I need a team?</h3>
+					<svg width = "15" height = "10" viewBox = "0 0 42 25">
+						<path d = "M3 3L21 21L39 3" stroke = "white" stroke-width = "7" stroke-linecap = "round"/>
+					</svg>
+
+				</div>
+				<div class = "answer">
+					<p>Students can compete in teams of three. If you don't have a team, we can help you find one of the day of the competition. You're also more than welcome to compete alone.</p>
+				</div>
+			</div>
+		</section>
 		<div class="w-screen h-1/2 sm:flex text-center content-center justify-center content-center ">
 
 			<div class="text-center sm:w-1/4 m-10">
